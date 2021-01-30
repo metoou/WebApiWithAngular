@@ -1,4 +1,4 @@
-Net Core Web API
-Angular
-EntiryFrameworkCore
+Net Core Web API,
+Angular,
+EntiryFrameworkCore,
 Swagger
